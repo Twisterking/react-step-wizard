@@ -1,6 +1,6 @@
 {
   "name": "react-step-wizard",
-  "version": "5.3.2",
+  "version": "5.3.3",
   "description": "A modern flexible step wizard component built for React",
   "main": "dist/react-step-wizard.min.js",
   "typings": "dist/index.d.ts",
@@ -25,7 +25,7 @@
     "wizard",
     "es6"
   ],
-  "author": "Jason McNeal <jaywizard@gmail.com>",
+  "author": "Jason McNeal <jaywizard@gmail.com>, fork by Patrick Schubert <patrick@orderlion.at>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jcmcneal/react-step-wizard/issues"
